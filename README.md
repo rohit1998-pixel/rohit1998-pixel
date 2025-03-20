@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohit1998-pixel.
 - 👀 I’m interested in "electrochemical sensor".
-- 🌱 I’m currently learning "how to use Eval-ADuCM355".
 - 📫 How to reach me: just mail at raj397rohit@gmail.com
 
 <!---
